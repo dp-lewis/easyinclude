@@ -1,0 +1,11 @@
+{
+  "name": "EasyTemplates",
+  "description": "Simple way to use Handlebars with partials.",
+  "version": "0.1.0",
+  "author": "David Lewis <mail@david-lewis.com>",
+  "dependencies": {
+    "express": "3.x",  	
+    "hbs": "1.x"
+  },
+  "engine": "node >= 0.4.1"
+}
